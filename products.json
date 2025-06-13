@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Кроссовки Nike Air Max",
+    "price": 12000,
+    "image": "/images/nike-air-max.jpg",
+    "category": "Кроссовки"
+  },
+  {
+    "id": 2,
+    "name": "Босоножки летние",
+    "price": 5000,
+    "image": "/images/summer-sandals.jpg",
+    "category": "Босоножки"
+  },
+  {
+    "id": 3,
+    "name": "Сапоги зимние",
+    "price": 15000,
+    "image": "/images/winter-boots.jpg",
+    "category": "Сапоги"
+  },
+  {
+    "id": 4,
+    "name": "Кроссовки Adidas Runner",
+    "price": 11000,
+    "image": "/images/adidas-runner.jpg",
+    "category": "Кроссовки"
+  },
+    {
+    "id": 5,
+    "name": "Ботинки осенние",
+    "price": 9500,
+    "image": "/images/autumn-shoes.jpg",
+    "category": "Ботинки"
+  }
+]
